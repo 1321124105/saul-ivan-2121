@@ -199,15 +199,15 @@ if(c==1<3){
     console.log("1 es mayo que 3");
 }
 //ejercicio 5
-if(h=="contabilidad"){
+if( h == "contabilidad"){
    console.log("contabilidad no es lo mismo que softaware");
 
-}else{
-    console.log("contabilidad si es lo mismo que softaware")
+} else {
+    console.log("contabilidad si es lo mismo que softaware");
 }
 
 
-
+ 
 
     
     
